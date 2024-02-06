@@ -1,0 +1,9 @@
+/data/
+/plots/
+/others/
+/.ipynb_checkpoints/
+*pyc
+*pdf
+*txt
+*csv
+*sh
